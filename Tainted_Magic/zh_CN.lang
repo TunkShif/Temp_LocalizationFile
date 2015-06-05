@@ -3,57 +3,57 @@ death.attack.eldritch=%1$s was overtaken by The Eldritch
 death.attack.eldritch.player=%1$s was overtaken by Eldritch energy whilst fighting %2$s
 
 //blocks
-tile.OreShadow.name=Shadow Ore
-tile.WarpWood.name=Warpwood
+tile.OreShadow.name=暗影矿石
+tile.WarpWood.name=扭曲之木
 
 //items
-item.WarpedGoggles.name=Warped Goggles of Revealing
-item.WarpedPraetorArmorHelm.name=Warped Praetor Helm
-item.WarpedPraetorArmorChest.name=Warped Praetor Chestplate
-item.WarpedPraetorArmorLegs.name=Warped Praetor Greaves
-item.ShadowGem.name=Shadow Gem
-item.CrimsonFabric.name=Crimson Fabric
-item.HelmetVoidFortress.name=Void Fortress Helm
-item.ChestplateVoidFortress.name=Void Fortress Cuirass
-item.LeggingsVoidFortress.name=Void Fortress Thigh Guards
-item.CrimsonPlating.name=Crimson Plating
-item.ShadowMetal.name=Shadowmetal
-item.HardenedDiamond.name=Hardened Diamond
-item.HardenedShadowMetal.name=Hardened Shadowmetal
-item.ShadowCloth.name=Shadow Cloth
-item.ShadowDust.name=Shadow Dust
-item.WarpedShard.name=Warped Shard
-item.FluxShard.name=Flux Shard
-item.CrimsonVoidHelm.name=Crimson Cult Hood
-item.CrimsonVoidChest.name=Crimson Cult Robe
-item.CrimsonVoidLegs.name=Crimson Cult Leggings
-item.CrimsonVoidBoots.name=Crimson Cult Boots
-item.CrimsonPlateVoidHelm.name=Crimson Cult Helm
-item.CrimsonPlateVoidChest.name=Crimson Cult Chestplate
-item.CrimsonPlateVoidLegs.name=Crimson Cult Greaves
-item.CrimsonLeaderVoidHelm.name=Crimson Praetor Helm
-item.CrimsonLeaderVoidChest.name=Crimson Praetor Chestplate
-item.CrimsonLeaderVoidLegs.name=Crimson Praetor Greaves
+item.WarpedGoggles.name=扭曲揭示之护目镜
+item.WarpedPraetorArmorHelm.name=扭曲血腥主教头盔
+item.WarpedPraetorArmorChest.name=扭曲血腥主教胸甲
+item.WarpedPraetorArmorLegs.name=扭曲血腥主教护胫
+item.ShadowGem.name=暗影宝石
+item.CrimsonFabric.name=血腥布匹
+item.HelmetVoidFortress.name=虚空要塞兜鍪
+item.ChestplateVoidFortress.name=虚空要塞胸铠
+item.LeggingsVoidFortress.name=虚空要塞护胫
+item.CrimsonPlating.name=血腥镀板
+item.ShadowMetal.name=暗影金属
+item.HardenedDiamond.name=硬化钻石
+item.HardenedShadowMetal.name=硬化暗影金属
+item.ShadowCloth.name=暗影布匹
+item.ShadowDust.name=暗影之尘
+item.WarpedShard.name=扭曲碎片
+item.FluxShard.name=咒波碎片
+item.CrimsonVoidHelm.name=血腥邪徒兜帽
+item.CrimsonVoidChest.name=血腥邪徒法袍
+item.CrimsonVoidLegs.name=血腥邪徒护腿
+item.CrimsonVoidBoots.name=血腥邪徒靴子
+item.CrimsonPlateVoidHelm.name=血腥邪徒头盔
+item.CrimsonPlateVoidChest.name=血腥邪徒胸甲
+item.CrimsonPlateVoidLegs.name=血腥邪徒护胫
+item.CrimsonLeaderVoidHelm.name=血腥主教头盔
+item.CrimsonLeaderVoidChest.name=血腥主教胸甲
+item.CrimsonLeaderVoidLegs.name=血腥主教护胫
 
 //Wand
-item.FocusTaint.name=Wand Focus: Taint Storm
-item.FocusEldritch.name=Wand Focus: Eldritch
-item.WarpRod.name=Warpwood Rod
-item.ShadowCap.name=Shadowmetal Cap
-item.Wand.SHADOW.cap=Shadow Embellished
-item.Wand.WARP.rod=Warpwood
-item.WarpStaffCore.name=Warpwood Staff Core
+item.FocusTaint.name=法杖核心:污染风暴
+item.FocusEldritch.name=法杖核心:怪异
+item.WarpRod.name=扭曲之木杖柄
+item.ShadowCap.name=暗影金属杖端
+item.Wand.SHADOW.cap=暗影点缀
+item.Wand.WARP.rod=扭曲之木
+item.WarpStaffCore.name=扭曲之木杖芯
 
 //misc
-itemGroup.TaintedMagic=Tainted Magic
+itemGroup.TaintedMagic=腐化魔法
 
 //research
-tc.research_category.TM=Tainted Magic
+tc.research_category.TM=腐化魔法
 
 //TAINTEDMAGIC
-tm.name.TAINTEDMAGIC=Evil Magic
+tm.name.TAINTEDMAGIC=邪恶魔法
 
-tm.tag.TAINTEDMAGIC=Is this a good idea?
+tm.tag.TAINTEDMAGIC=这是个好注意么?
 
 tm.text.TAINTEDMAGIC.1=On your adventures through the world you came across a a ripped page from another thaumaturge's thaumonomicon (see right). From what you could decipher, it speaks of putting the evil magics to use. The idea intrigues you, but it seems very risky. Taint, flux, and warp are all somewhat dangerous... But only the weak would be afraid to adventure into the realm of the unknown! You are sure there are countless uses to be discovered from warp and flux. The page is still unclear, and in scribbles, but one day, you will master the art of evil magic. One day!
 tm.text.TAINTEDMAGIC.2=<IMG>taintedmagic:textures/misc/BACKTAINT.png:0:255:255:255:.5</IMG>
